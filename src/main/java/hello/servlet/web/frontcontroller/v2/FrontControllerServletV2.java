@@ -4,7 +4,6 @@ import hello.servlet.web.frontcontroller.MyView;
 import hello.servlet.web.frontcontroller.v2.controller.MemberFormControllerV2;
 import hello.servlet.web.frontcontroller.v2.controller.MemberListControllerV2;
 import hello.servlet.web.frontcontroller.v2.controller.MemberSaveControllerV2;
-import lombok.extern.slf4j.Slf4j;
 
 import javax.servlet.ServletException;
 import javax.servlet.annotation.WebServlet;
